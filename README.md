@@ -11,7 +11,7 @@ If noone else is interested, I'll use it personally. I'm making sections in the 
 
 ### Please add an entry below to catalog assets:
 1. AI
-  1. 1. Simple batch inference examples - Databricks notebook - author: Eli Swanson
+    1. 1. Simple batch inference examples - Databricks notebook - author: Eli Swanson
 
 
 # External asset catalog
