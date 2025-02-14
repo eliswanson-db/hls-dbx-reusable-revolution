@@ -7,19 +7,19 @@ Please give your asset it's own folder, add a readme for it with appropriate att
 
 Currently this repo is public so only add things you're comfortable adding. We'll convert it once I figure out who is interested in contributing, but previously manually adding permissions for everyone was a huge blocker for involvement.
 
-If noone else is interested, I'll use it personally. If others start to contribute we can split this up into sections and make a searchable catalog rather than just a list.
+If noone else is interested, I'll use it personally. I'm making sections in the readme. If people start using it I'll add a deployable catalog that starts with a yaml file so we can search in Databricks itself.
 
 ### Please add an entry below to catalog assets:
 1. AI
-1. 1. Simple batch inference examples - Databricks notebook - author: Eli Swanson
+  1. 1. Simple batch inference examples - Databricks notebook - author: Eli Swanson
 
 
 # External asset catalog
 ### Add links here to external assets that don't fit or that you don't feel like adding here.
 1. AI
-1. 1. Agents Example from Industry Solutions - https://github.com/databricks-industry-solutions/CareCost-Compass - primary author: Srijit Nair
+  1. 1. Agents Example from Industry Solutions - https://github.com/databricks-industry-solutions/CareCost-Compass - primary author: Srijit Nair
 
 
 # Blog posts and authored content
 1. AI
-1. 1. Genie to teams conversational AI - https://medium.com/@caiomsouza/databricks-genie-ai-bi-integrate-to-microsoft-teams-conversational-ai-799db59e7d76 - primary author: Caio Moreno
+  1. 1. Genie to teams conversational AI - https://medium.com/@caiomsouza/databricks-genie-ai-bi-integrate-to-microsoft-teams-conversational-ai-799db59e7d76 - primary author: Caio Moreno
